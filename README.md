@@ -2,6 +2,8 @@
 
 A simple MVP implementation of an Uber-like application built with React Native and Expo. This app focuses only on the rider's perspective and does not include authentication.
 
+![Uber Clone Cover](./assets/RideApp_Cover_Template_Aligned.png)
+
 ## Features
 
 - Location-based interface using maps
